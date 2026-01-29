@@ -1,1 +1,0 @@
-import{jb as e}from"./chunk-B4EV7BUP.js";var r=class t{constructor(){}static \u0275fac=function(o){return new(o||t)};static \u0275dir=e({type:t,selectors:[["","componentHeader",""]],hostAttrs:[1,"sticky-top","p-3","mb-3","text-center","text-md-start","bg-body-tertiary"],exportAs:["componentHeader"]})};export{r as a};
